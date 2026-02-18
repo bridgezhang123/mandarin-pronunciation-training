@@ -263,7 +263,7 @@
 
 ## 6. 致谢 / Acknowledgements
 
-- [文档格式说明 / Document Format Instructions](docs/document-format-instructions.md)提及的工具对文本的整理、排版有益，表示感谢。
+- [document-format-instructions](docs/document-format-instructions.md)提及的工具对文本的整理、排版有益，表示感谢。
 
 ---
 

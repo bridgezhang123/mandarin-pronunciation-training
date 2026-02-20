@@ -11,7 +11,7 @@
 - **MkDocs**： MkDocs是一个基于 Python 的快速、简单的静态网站生成器，专门用于将 Markdown 格式的文档源文件通过单个 YAML 配置文件，构建成项目文档静态网站。
 - **Alerts / Callouts Reference（提示块说明）**：这部分定义了文档中使用的提示块类型。
 
-GitHub、Gitbook 和 Alerts / Callouts Reference 共同促进了文档的组织和呈现，使得文档内容更加清晰易懂。
+GitHub、Gitbook 、 MkDocs和 Alerts / Callouts Reference 共同促进了文档的组织和呈现，使得文档内容更加清晰易懂。
 
 ## 3. 整体说明 / Overall Explanation
 1. 利用GitHub平台的文档撰写，主要受到[上海交通大学生存手册](https://github.com/SurviveSJTU/SurviveSJTUManual)的启发，表示感谢！

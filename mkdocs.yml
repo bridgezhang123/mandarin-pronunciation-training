@@ -1,5 +1,5 @@
 # mkdocs.yml
-site_name: document-format-instructions
+site_name: mandarin-pronunciation-training
 site_url: https://bridgezhang123.github.io/mandarin-pronunciation-training/
 theme:
   name: material

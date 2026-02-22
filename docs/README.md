@@ -24,6 +24,7 @@
 >
 > 本节整理参考了AI与搜索引擎汇总信息，使用时宜保持审慎判断。  
 > AI的使用在版权、可信度、诚信等方面有一些争议，可参考[人工智能](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180)、[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)。
+
 > 本文包含外部链接，仅供参考。相关网站内容由其各自维护，可能随时间发生变化，请谨慎甄别。
 ---
 

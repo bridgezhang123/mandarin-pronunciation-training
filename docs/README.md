@@ -10,9 +10,9 @@
 
 1. 在稍加了解后发现，标准发音确实会给人以清晰、克制、专业之感。较有参考价值的示例包括：
 
-   - [央广网中小学语文示范诵读库](http://edu.cnr.cn/eduzt/ywkwsfsd/)
-   - [国家通用语言文字培训平台](https://www.enaea.edu.cn/tyypx/)
-   - [兰霞老师诵读技巧课程](https://study.enaea.edu.cn/thirdPlatform/viewCourse?platformId=36a9b67fd76b45daca9d07350580137d&code=mx8oWDJQf%2BU0JVWKdoJcSW6toIEajQqQI8EylT7OQeifysYYX0Vpz%2F7xV2M8h2KbKYwjgVMKXxT1BeQZbidK0ai4bhVZ3woSkJn%2BgqEoW9nj4HoUWURhud67RqQCha8foOqnss2QEQQLBXyfpeb4axqfqIsSp9PhOPMcBds%2Fp4hqiMnj%2B%2FWB3JkBiiQVnZhUAmJtiMXYIcq9cxVZBVyH83Bt3uEnYQuMLf8Wcpq5Rh9RUbrKDel98pSF%2Frpz6WsTjcHIrJ1QbaBk4EMu9jJsrEq44OFb%2F%2FVm3ONuxO017ise5UNxEB1TYrb7ZsDdsCz7IoYqEZ%2BkNrvBYC1Memee4g%3D%3D)
+    - [央广网中小学语文示范诵读库](http://edu.cnr.cn/eduzt/ywkwsfsd/)
+    - [国家通用语言文字培训平台](https://www.enaea.edu.cn/tyypx/)
+    - [兰霞老师诵读技巧课程](https://study.enaea.edu.cn/thirdPlatform/viewCourse?platformId=36a9b67fd76b45daca9d07350580137d&code=mx8oWDJQf%2BU0JVWKdoJcSW6toIEajQqQI8EylT7OQeifysYYX0Vpz%2F7xV2M8h2KbKYwjgVMKXxT1BeQZbidK0ai4bhVZ3woSkJn%2BgqEoW9nj4HoUWURhud67RqQCha8foOqnss2QEQQLBXyfpeb4axqfqIsSp9PhOPMcBds%2Fp4hqiMnj%2B%2FWB3JkBiiQVnZhUAmJtiMXYIcq9cxVZBVyH83Bt3uEnYQuMLf8Wcpq5Rh9RUbrKDel98pSF%2Frpz6WsTjcHIrJ1QbaBk4EMu9jJsrEq44OFb%2F%2FVm3ONuxO017ise5UNxEB1TYrb7ZsDdsCz7IoYqEZ%2BkNrvBYC1Memee4g%3D%3D)
 
 1. 需要承认的是，强化自我觉察在短期内确实带来一定副作用——说话速度下降、表达自由度受限。但从长期看，此过程仍属于必要的“语言再训练期”。
 

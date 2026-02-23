@@ -4,17 +4,17 @@
 
 1. 标准普通话是跨地域沟通、专业表达与个人形象的重要基础。通常而言，发音规范不仅关系到“能否听懂”，更关系到表达的清晰度、可信度与专业度。
 
-2. 客观而言，自己很多时候的发音并不完全标准。多数人或许能够理解我的意思，但碍于情面、关系亲疏或沟通成本，外界真实而具体的反馈往往十分有限。
+1. 客观而言，自己很多时候的发音并不完全标准。多数人或许能够理解我的意思，但碍于情面、关系亲疏或沟通成本，外界真实而具体的反馈往往十分有限。
 
-3. 在他人多次善意提醒后，我的改进仍不明显。为避免问题被时间掩盖，遂决定系统整理并记录这些案例，以形成持续自我校正机制。
+1. 在他人多次善意提醒后，我的改进仍不明显。为避免问题被时间掩盖，遂决定系统整理并记录这些案例，以形成持续自我校正机制。
 
-4. 在稍加了解后发现，标准发音确实会给人以清晰、克制、专业之感。较有参考价值的示例包括：
+1. 在稍加了解后发现，标准发音确实会给人以清晰、克制、专业之感。较有参考价值的示例包括：
 
    - [央广网中小学语文示范诵读库](http://edu.cnr.cn/eduzt/ywkwsfsd/)
    - [国家通用语言文字培训平台](https://www.enaea.edu.cn/tyypx/)
    - [兰霞老师诵读技巧课程](https://study.enaea.edu.cn/thirdPlatform/viewCourse?platformId=36a9b67fd76b45daca9d07350580137d&code=mx8oWDJQf%2BU0JVWKdoJcSW6toIEajQqQI8EylT7OQeifysYYX0Vpz%2F7xV2M8h2KbKYwjgVMKXxT1BeQZbidK0ai4bhVZ3woSkJn%2BgqEoW9nj4HoUWURhud67RqQCha8foOqnss2QEQQLBXyfpeb4axqfqIsSp9PhOPMcBds%2Fp4hqiMnj%2B%2FWB3JkBiiQVnZhUAmJtiMXYIcq9cxVZBVyH83Bt3uEnYQuMLf8Wcpq5Rh9RUbrKDel98pSF%2Frpz6WsTjcHIrJ1QbaBk4EMu9jJsrEq44OFb%2F%2FVm3ONuxO017ise5UNxEB1TYrb7ZsDdsCz7IoYqEZ%2BkNrvBYC1Memee4g%3D%3D)
 
-5. 需要承认的是，强化自我觉察在短期内确实带来一定副作用——说话速度下降、表达自由度受限。但从长期看，此过程仍属于必要的“语言再训练期”。
+1. 需要承认的是，强化自我觉察在短期内确实带来一定副作用——说话速度下降、表达自由度受限。但从长期看，此过程仍属于必要的“语言再训练期”。
 
 ---
 
@@ -270,13 +270,6 @@
 
 ## 7. 更新日志 / Changelog
 
-- 初稿：张 桥，February 18, 2026
-
-Update number/更新编号：February 22，2026
-
-- 新增：外部链接风险提醒说明。
-- 调整：鉴于第三方外部链接的不确定性，将相关提示块类型由 **Tip / 提示** 调整为 **Caution / 谨慎**。
-- 合规：已逐一联系文中提及的相关人员，获取发布授权；未获授权部分已进行去名化处理。
-- 调整：此文超链接的显示名称由document-format-instructions更正为mandarin-pronunciation-training。
+- 详见[changelog](changelog.md)。
 
 ---

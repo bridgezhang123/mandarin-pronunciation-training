@@ -1,0 +1,4 @@
+.md-typeset p a,
+.md-typeset li a {
+  text-decoration: underline;
+}
